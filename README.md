@@ -10,7 +10,7 @@ Due to significantly low number of fraud transactions you may have in the datase
 1.1 Using t-test and Gaussian distribution
 
 2   Machine Learning method   
-2.1 Using supervised learning (Random Forest) 
+2.1 Using supervised learning (Random Forest)   
 2.2 Unsupervised Learning (Isolation Forest)
 
 3   Deep Learning method  
