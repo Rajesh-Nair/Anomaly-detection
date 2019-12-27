@@ -14,4 +14,7 @@ Due to significantly low number of fraud transactions you may have in the datase
 2.2 Unsupervised Learning (Isolation Forest)
 
 3   Deep Learning method 
-3.1 Using Autoencoder......
+3.1 Using Autoencoder reconstruction error
+
+
+Note: Read the notebooks in the numerical order
