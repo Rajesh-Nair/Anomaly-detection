@@ -16,3 +16,4 @@ Due to significantly low number of fraud transactions you may have in the datase
 
 
 Note: Read the notebooks in the numerical order
+If any issues viewing a notebook , possibly due to java-script based libraries - use https://nbviewer.org/
